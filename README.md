@@ -1,5 +1,4 @@
-# Pent4silea
-# Mirah-firmware
+# Pent4silea - Mirah-firmware
 
 A Particle project named Pent4silea / Mirah Board firmware
 
