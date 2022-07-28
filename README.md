@@ -1,6 +1,6 @@
-# Pent4silea - Mirah-firmware
+# Mirah-firmware
 
-A Particle project named Pent4silea / Mirah Board firmware
+A Particle project named *Mirah Board firmware*
 
 ## Welcome to your project!
 
